@@ -46,3 +46,9 @@ Branch diagram
 
 - [Gitflow - Introduction](https://dev.to/angelmtztrc/gitflow-introduction-l8i)
 - [Aprende Git de manera sencilla](https://desarrollowp.com/blog/tutoriales/aprende-git-de-manera-sencilla-git-flow/)
+
+---
+
+## Further Reading
+
+- [State of CI/CD and the omnipresent git flow](https://medium.com/burdaforward/state-of-ci-cd-and-the-dreaded-git-flow-fce92d04fb07)
