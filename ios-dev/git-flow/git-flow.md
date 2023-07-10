@@ -33,9 +33,7 @@ The release branch, basically allows us to create a "release" of the project, th
 The hotfix branch helps us to correct errors in production. This is the only branch that derives from the master. Once the error is corrected, we must end the branch, it will be merged with master and develop. The master branch will be labeled with the version number.
 
 ---
-<!-- _class: lead -->
-<!-- _backgroundColor: #455a64 -->
-<!-- _color: #fff8e1 -->
+<!-- _class: invert lead -->
 
 ## Branch diagram
 
