@@ -1,8 +1,9 @@
 ---
 marp: true
-theme: uncover
+theme: gaia
 class: invert
 ---
+<!-- _class: lead -->
 
 # Agile
 
@@ -13,6 +14,7 @@ class: invert
 Scrum in IT believes in empowered self-managed development teams with three specific and clearly defined roles. These roles include – Product Owner (PO), Scrum Master (SM) and the development team consisting of the programmers and testers. They work together in iterative time boxed durations called sprints.
 
 ---
+<!-- _class: lead -->
 
 # Roles
 
@@ -32,6 +34,7 @@ Organized servant-leader who ensures the understanding and execution of Scrum is
 Group of professionals who deliver the product (developers, programmers, designers).
 
 ---
+<!-- _class: lead -->
 
 # Events
 
@@ -62,6 +65,7 @@ An informal meeting held at the end of every Sprint where the Scrum team present
 A meeting where the Scrum team reflects on the proceedings of the previous Sprint and establishes improvements for the next Sprint.
 
 ---
+<!-- _class: lead -->
 
 # Artifacts
 
